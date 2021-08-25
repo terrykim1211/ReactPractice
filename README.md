@@ -42,16 +42,27 @@ Replace the 'REPLACE WITH YOUR FIREBASE url' with your own firebase url from js 
 
 ## References/Citation
 
-React Tutorial:
+React Tutorial:   
 https://www.youtube.com/watch?v=Dorf8i6lCuk
 
-AOS animation library:
+AOS animation library:   
 https://www.youtube.com/watch?v=JcHLxzrsRS4
 https://michalsnik.github.io/aos/
 
+Images:   
+[React Logo]
+https://velog.io/@hyundong_kk/React%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC
+
+[Leetcode Logo]   
+https://haningya.tistory.com/170
+
+[Coding Interview Image]   
+https://betterprogramming.pub/how-to-prepare-for-your-next-coding-interview-2a6a6080cfb0
 
 
+Special thanks to [Tony Chang](https://github.com/tonychang04) for allowing the use of his name and image for testing
 
+<img align = "left" width="100%" src="https://github.com/terrykim1211/ReactPractice/blob/main/demo1.PNG"/>  
 
 
 
