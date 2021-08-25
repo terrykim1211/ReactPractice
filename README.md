@@ -1,4 +1,4 @@
-# ReactPractice
+# ReactPractice - MeetupApp
 
 
 ## Demo
