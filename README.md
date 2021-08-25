@@ -45,8 +45,8 @@ Replace the 'REPLACE WITH YOUR FIREBASE url' with your own firebase url from js 
 React Tutorial:   
 https://www.youtube.com/watch?v=Dorf8i6lCuk
 
-AOS animation library:   
-https://www.youtube.com/watch?v=JcHLxzrsRS4
+AOS animation library/Tutorial:   
+https://www.youtube.com/watch?v=JcHLxzrsRS4   
 https://michalsnik.github.io/aos/
 
 Images:   
