@@ -10,13 +10,13 @@
 <img align = "left" width="100%" src= "https://github.com/terrykim1211/ReactPractice/blob/main/demo2.PNG"/>
 
 
-### Add and remove from favorites 
+### Add or remove from favorites 
 <img align = "left" width="100%" src="https://github.com/terrykim1211/ReactPractice/blob/main/favorites.gif"/>  
 
 
 
 ## How to use
-Simply run the following line in your terminal to start the react web in local environment
+Simply run the following line in your terminal to start the react web in local environment after installing react dependencies
 ```
 npm start
 ```
